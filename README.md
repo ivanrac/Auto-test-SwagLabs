@@ -1,1 +1,1 @@
-Toto je auto test-pre SwagLabs
+Toto je auto-test pre SwagLabs
