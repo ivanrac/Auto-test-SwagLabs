@@ -59,4 +59,5 @@ Na spustenie tohto projektu potrebujete mať nainštalované nasledujúce nástr
 
 ## 📄 Licencia
 
-Tento projekt je licencovaný pod licenciou **MIT** (alebo iná licencia podľa Vášho výberu).
+Tento projekt je licencovaný pod licenciou Apache License
+                           Version 2.0, January 2004.
